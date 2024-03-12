@@ -31,7 +31,7 @@ Please refer to the license badge at the top of this document.
 
 ## Sources
 
-These are the sources needed for the creation of the command-line CMS
+These are the sources needed for the creation of the ecommerce database and backend system.
 
 []()
 []()
