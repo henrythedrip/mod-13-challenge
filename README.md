@@ -22,7 +22,7 @@ First, users must install NPM through the command-line interface. This can be do
 
 Here is a video walk through guide of the program and how it works:
 
-[]()
+[Walk Through Video Showing Functionality](https://drive.google.com/file/d/1JcVtdioXtyjOUAG6IOe0QLxj8qd_7Tad/view?usp=sharing)
 
 ## License
 
@@ -33,8 +33,15 @@ Please refer to the license badge at the top of this document.
 
 These are the sources needed for the creation of the ecommerce database and backend system.
 
-[]()
-[]()
+[Basic model querying](https://sequelize.org/docs/v6/core-concepts/model-querying-basics/)
+
+[Validations and constraints](https://sequelize.org/docs/v6/core-concepts/validations-and-constraints/)
+
+[Associations](https://sequelize.org/docs/v6/core-concepts/assocs/)
+
+[Relationships](https://sequelize.org/docs/v6/core-concepts/assocs/#many-to-many-relationships)
+
+[Constraints and circularities](https://sequelize.org/docs/v6/other-topics/constraints-and-circularities/#enforcing-a-foreign-key-reference-without-constraints)
 
 
 ## GitHub
